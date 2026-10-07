@@ -48,7 +48,6 @@ Linh tinh, thích gì build nấy. I build whatever catches my interest.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Doctoten-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Doctoten)
-[![Blog](https://img.shields.io/badge/Blog-blog.lxlynx.com-007ACC?style=for-the-badge)](https://blog.lxlynx.com)
 [![Sponsor](https://img.shields.io/badge/Sponsor-Doctoten-007ACC?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Doctoten)
 
 </div>
