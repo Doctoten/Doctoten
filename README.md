@@ -49,7 +49,7 @@ Linh tinh, thích gì build nấy. I build whatever catches my interest.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Doctoten-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Doctoten)
 [![Sponsor](https://img.shields.io/badge/Sponsor-Doctoten-007ACC?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Doctoten)
-
+[![Blog](https://img.shields.io/badge/Blog-Doctoten-007ACC?style=for-the-badge&logo=githubpages&logoColor=white)](https://doctoten.github.io/)
 </div>
 
 <h1 align="center">
